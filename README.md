@@ -2,4 +2,4 @@
 
 ## 1.linear regression
 ## 2.Multiple Linear regression
-## 3.Polynomial
+## 3.Polynomial Regression
