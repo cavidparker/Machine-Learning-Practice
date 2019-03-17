@@ -16,6 +16,17 @@ There are three important libraries for Machine Learning. They are:
                                     
 i) Numpy : import numpy as np
 
+NumPy is the fundamental package for scientific computing with Python. 
+
+Machine Learning total system is all about developing mathematical model. Everything is about mathematics in Machine Learning. 
+
+ii) pandas: import pandas as pd
+
+pandas is for importing dataset. This library is most important and the best one for importing dataset in Machine Learning. Without dataset Machine Learing cann't be started. So, dataset always needs to be imported while doing any project. Thats why this library is so important.
+
+iii) matplotlib.pyplot: import matplotlib.pyplot as plt
+
+matplotlib is a library and pyplot is a sub-library of matplotlib. This library is needed for ploting any graphical representation.
 
 1.Linear Regression: 
 
