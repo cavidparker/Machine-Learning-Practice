@@ -28,8 +28,22 @@ iii) matplotlib.pyplot: import matplotlib.pyplot as plt
 
 matplotlib is a library and pyplot is a sub-library of matplotlib. This library is needed for ploting any graphical representation.
 
-1.Linear Regression: 
+What is Regression?
 
+Answer: Regression is a model value based on independent predictors. This method is used for forecasting and finding out effect relationships between variables. Regression techniques are based on the number of independent variables and the type of relationship between the independent and dependent variables. There are two variables. Ther are:
+
+                                           a) X - independent variable and
+                                          ib) y - dependant variable
+
+1. Linear Regression: Linear regression is called as simple linear regression. Simple linear regression is a type of regression analysis where the number of independent variables is one and there is a linear relationship between the independent(x) and dependent(y) variable. Equation for simple linear regression:
+
+                                      y = b_0 + b_1 *x1
+                                      
+Here, x1 is Independent variable and y is Dependent variable
+
+The motive of the linear regression algorithm is to find the best values for b_0 and b_1.
+                                     
+                                     
 -Visualizing the Linear Regression
 ## 2.Multiple Linear regression
 ## 3.Polynomial Regression
