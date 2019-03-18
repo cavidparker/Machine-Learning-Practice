@@ -33,17 +33,24 @@ What is Regression?
 Answer: Regression is a model value based on independent predictors. This method is used for forecasting and finding out effect relationships between variables. Regression techniques are based on the number of independent variables and the type of relationship between the independent and dependent variables. There are two variables. Ther are:
 
                                            a) X - independent variable and
-                                          ib) y - dependant variable
+                                           b) y - dependant variable
 
 1. Linear Regression: Linear regression is called as simple linear regression. Simple linear regression is a type of regression analysis where the number of independent variables is one and there is a linear relationship between the independent(x) and dependent(y) variable. Equation for simple linear regression:
 
-                                      y = b_0 + b_1 *x1
+                                      y = b_0 + b_1 * x_1
                                       
-Here, x1 is Independent variable and y is Dependent variable
+Here, x_1 is Independent variable and y is Dependent variable. In linear regression there will be always one Independent variable.
 
-The motive of the linear regression algorithm is to find the best values for b_0 and b_1.
-                                     
-                                     
--Visualizing the Linear Regression
-## 2.Multiple Linear regression
+b_0 and b_1 are called as co-efficient. Co-efficient create relationship between Independent and Dependent variable.
+
+The motive of the linear regression algorithm is to find the best values for b_0 and b_1. 
+
+2. Multiple Linear regression: Equation for multiple linear regression:
+
+                            y = b_0 + b_1 * x_1 +  b_2 * x_2 + ....... + b_n * x_n
+                            
+Here, x_1, x_2, ....., x_n are Independent variables and y is Dependent variable. In multiple linear regression there will be always multiple Independent variables.        
+
+b_0, b_1, ..... , b_n are called as co-efficient. Co-efficient create relationship between Independent and Dependent variable.
+
 ## 3.Polynomial Regression
