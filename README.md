@@ -63,7 +63,7 @@ Polynomial regression is a special case of linear regression. We can get good fi
 
 Equation for polynomial regression:
 
-                           y = b https://cdn-images-1.medium.com/max/800/1*PWT0R1EnTIaLSNcWWnItWA.gif
+                           y = b_0 + b_1 * x +  b_2 * x^2 + b_3 * x^3 + ....... + b_n * x^n
 
-Here n is the degree of the polynomial
+Here n is the degree of the polynomial, x are Independent variables and y is Dependent variable.
 
