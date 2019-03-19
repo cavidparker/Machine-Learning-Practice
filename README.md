@@ -57,7 +57,13 @@ Here, x_1, x_2, ....., x_n are Independent variables and y is Dependent variable
 
 b_0, b_1, ..... , b_n are called as co-efficient. Co-efficient create relationship between Independent and Dependent variable.
 
-## 3.Polynomial Regression
+## 3. Polynomial Regression:
 
+Polynomial regression is a special case of linear regression. We can get good fit line on the data for linear regression. But considering real world examples the data might not be so linearly but more scattered. In such cases linear regression might not be the best way to describe the data. A curved or non linear line might be a better fit for such data.
 
+Equation for polynomial regression:
+
+                           y = b https://cdn-images-1.medium.com/max/800/1*PWT0R1EnTIaLSNcWWnItWA.gif
+
+Here n is the degree of the polynomial
 
