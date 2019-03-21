@@ -39,9 +39,9 @@ Answer: Regression is a model value based on independent predictors. This method
 
 Linear regression is called as simple linear regression. Simple linear regression is a type of regression analysis where the number of independent variables is one and there is a linear relationship between the independent(x) and dependent(y) variable. Equation for simple linear regression:
 
-                                      y = b_0 + b_1 * x_1
+                                      y = b_0 + b_1 * x
                                       
-Here, x_1 is Independent variable and y is Dependent variable. In linear regression there will be always one Independent variable.
+Here, x is Independent variable and y is Dependent variable. In linear regression there will be always one Independent variable.
 
 b_0 and b_1 are called as co-efficient. Co-efficient create relationship between Independent and Dependent variable.
 
