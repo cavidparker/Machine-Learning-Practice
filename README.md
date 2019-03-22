@@ -67,3 +67,6 @@ Equation for polynomial regression:
 
 Here n is the degree of the polynomial, x are Independent variables and y is Dependent variable.
 
+
+## Support Vector Regression 
+
