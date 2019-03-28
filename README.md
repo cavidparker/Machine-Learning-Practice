@@ -70,5 +70,5 @@ Here n is the degree of the polynomial, x are Independent variables and y is Dep
 
 ## Support Vector Regression 
 
-## Decision Tree Regressio
+## Decision Tree Regression
 
