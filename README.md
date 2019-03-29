@@ -72,3 +72,5 @@ Here n is the degree of the polynomial, x are Independent variables and y is Dep
 
 ## Decision Tree Regression
 
+## Random Forest regressio
+
