@@ -35,6 +35,18 @@ Answer: Regression is a model value based on independent predictors. This method
                                            a) X - independent variable and
                                            b) y - dependant variable
 
+Types of Regression:
+
+  i) Linear Regression
+
+ ii) Multiple Linear Regression
+
+iii) Polynomial Regression
+
+ iv) Decision Tree Regression
+
+  v) Random Forest Regression
+
 ## 1. Linear Regression: 
 
 Linear regression is called as simple linear regression. Simple linear regression is a type of regression analysis where the number of independent variables is one and there is a linear relationship between the independent(x) and dependent(y) variable. Equation for simple linear regression:
