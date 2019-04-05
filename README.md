@@ -51,7 +51,7 @@ iii) Polynomial Regression
 
 Linear regression is called as simple linear regression. Simple linear regression is a type of regression analysis where the number of independent variables is one and there is a linear relationship between the independent(x) and dependent(y) variable. Equation for simple linear regression:
 
-                                      y = b_0 + b_1 * x
+                                           y = b_0 + b_1 * x
                                       
 Here, x is Independent variable and y is Dependent variable. In linear regression there will be always one Independent variable.
 
@@ -80,7 +80,9 @@ Equation for polynomial regression:
 Here n is the degree of the polynomial, x are Independent variables and y is Dependent variable.
 
 
-## Support Vector Regression 
+## 4. Support Vector Regression:
+
+In simple regression we try to minimise the error rate. While in SVR we try to fit the error within a certain threshold.
 
 ## Decision Tree Regression
 
