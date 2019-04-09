@@ -88,3 +88,16 @@ In simple regression we try to minimise the error rate. While in SVR we try to f
 
 ## Random Forest regression
 
+Scenario 1: Facebook recognizes your friend in a picture from an album of tagged photographs
+Explanation: It is supervised learning. Here Facebook is using tagged photos to recognize the person. 
+Therefore, the tagged photos become the labels of the pictures and we know that when the machine is learning from labelled data, it is supervised learning.
+
+Scenario 2: Recommending new songs based on someone’s past music choices
+Explanation: It is supervised learning. The model is training a classifier on pre-existing labels (genres of songs).
+This is what Netflix, Pandora, and Spotify do all the time, they collect the songs/movies that you like already, 
+evaluate the features based on your likes/dislikes and then recommend new movies/songs based on similar features.
+
+Scenario 3: Analyze bank data for suspicious looking transactions and flag the fraud transactions
+Explanation: It is unsupervised learning. In this case, the suspicious transactions are not defined, 
+hence there are no labels of "fraud" and "not fraud". The model tries to identify outliers by looking at anomalous transactions and flags them as 'fraud'
+
