@@ -84,9 +84,9 @@ Here n is the degree of the polynomial, x are Independent variables and y is Dep
 
 In simple regression we try to minimise the error rate. While in SVR we try to fit the error within a certain threshold.
 
-## Decision Tree Regression
+## Decision Tree Regression :
 
-## Random Forest regression
+## Random Forest regression :
 
 Scenario 1: Facebook recognizes your friend in a picture from an album of tagged photographs
 Explanation: It is supervised learning. Here Facebook is using tagged photos to recognize the person. 
