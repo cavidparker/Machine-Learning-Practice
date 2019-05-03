@@ -85,6 +85,7 @@ Here n is the degree of the polynomial, x are Independent variables and y is Dep
 In simple regression we try to minimise the error rate. While in SVR we try to fit the error within a certain threshold.
 
 ## Decision Tree Regression :
+Decision Tree is a decision-making tool that uses a flowchart-like tree structure or is a model of decisions and all of their possible results, including outcomes, input costs and utility
 
 ## Random Forest regression :
 
