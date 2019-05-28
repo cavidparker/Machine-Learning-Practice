@@ -14,7 +14,7 @@ There are three important libraries for Machine Learning. They are:
                                      
                                     iii) matplotlib.pyplot
                                     
-i) Numpy : import numpy as np
+i) Numpy : import numpy as np.
 
 NumPy is the fundamental package for scientific computing with Python. 
 
